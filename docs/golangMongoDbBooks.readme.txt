@@ -1,0 +1,31 @@
+API to read Dbs:
+
+http://localhost:8100/albums
+
+
+
+APIs to Publish:
+    Book
+    
+    localhost:8200/albums
+
+        Body Form Data:
+        ---------------
+        name:5 Am morning
+        author:Robin Sharma
+        count:82
+
+        ---------------
+        name:Vijay-Sandesh
+        author:रामधारी सिंह 'दिनकर'
+        count:120
+
+        ---------------
+        name:Who will cry when I will die
+        author:Robin Sharma
+        count:125
+
+        ---------------
+        name:Monk who sold his ferarri
+        author:Robin Sharma
+        count:150
